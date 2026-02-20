@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://infospeng-cmd.github.io/founder-systems-toolkit/sitemap.xml
